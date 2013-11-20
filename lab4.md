@@ -62,3 +62,5 @@
 + No diagrams as we netioned before.
 
 + The information was quite enough to understand the basic structure and functionality of the application, and with the simplicity of it, we think that such an application is easy to be implemented through this document.
+
+####Link for the used document: http://gparted.sourceforge.net/docs/sw-req-spec/C/Software_Requirements_Specification_-_GParted.pdf
