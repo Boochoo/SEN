@@ -33,4 +33,19 @@
 + There aren't that much details about the use cases. No diagrams, instead they used several point to describe rapidly the use cases which they called User CLasses.
 
 ####(General structure of the system)
-+ 
++ There are no chart techniques used at all.
+
+####(Functional & non-functional requirements)
++ Yes, listed.
+
++ Yes, everything is implemented.
+
+####(How does (will) it look?)
++ There are examples for how the application looks like.
+
++ There are screenshots from the application itself after implementation.
+
++ There are good explanations about each screenshot which gives quite enough transitions between the screenshots.
+
+####(Process model? [might not exist, some times in a separate document called ‘project plan’])
+
