@@ -57,4 +57,8 @@
 
 
 ####(Your point of view)
-+ It has good part and bad parts. The good part in it that it follows the documentaion standard structures, and the bad part is that is doesn't have any diagrams or charts.
++ It has a good part and a bad part. The good part in it that it follows the documentaion standard structures, and the bad part is that is doesn't have any diagrams or charts.
+
++ No diagrams as we netioned before.
+
++ The information was quite enough to understand the basic structure and functionality of the application, and with the simplicity of it, we think that such an application is easy to be implemented through this document.
