@@ -57,4 +57,4 @@
 
 
 ####(Your point of view)
-+
++ It has good part and bad parts. The good part in it that it follows the documentaion standard structures, and the bad part is that is doesn't have any diagrams or charts.
