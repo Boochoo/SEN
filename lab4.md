@@ -25,6 +25,7 @@
 
 + The introduction part in the documentation we got is a bit bigger than the one in the template. Moreover, In the document, they splitted out the System Features from the Overall Description, unlike the template where the Features are included under the Overall Description. Furthermore, They used two new headings for the External and other requirements in the documentation, while in the template all the requirements were included under a main heading called Specific Requirements.
 
+
 ####(Use cases)
 + It will create partition tables, enable and disable partition flags, and perform actions such as create, resize, check, copy and paste. Up to that, the application will support file systems such as linux-swap and NTFS, and support other hardwares and softwares.
 
@@ -32,13 +33,16 @@
  
 + There aren't that much details about the use cases. No diagrams, instead they used several point to describe rapidly the use cases which they called User CLasses.
 
+
 ####(General structure of the system)
 + There are no chart techniques used at all.
+
 
 ####(Functional & non-functional requirements)
 + Yes, listed.
 
 + Yes, everything is implemented.
+
 
 ####(How does (will) it look?)
 + There are examples for how the application looks like.
@@ -47,5 +51,10 @@
 
 + There are good explanations about each screenshot which gives quite enough transitions between the screenshots.
 
-####(Process model? [might not exist, some times in a separate document called ‘project plan’])
 
+####(Process model?)
++ We couldn't find any thing related to process model nor project plan.
+
+
+####(Your point of view)
++
