@@ -21,7 +21,52 @@
 
 + one of the motivations is that there are several types of such a software, but the aim of this software is to keep it as simple as possible.
 
-+ 
+####(Structure)
++1. Introduction 
+1.1 Purpose 
+1.2 Document Conventions 
+1.3 Intended Audience and Reading Suggestions 
+1.4 Project Scope 
+1.5 References 
+2. Overall Description 
+2.1 Product Perspective 
+2.2 Product Features 
+2.3 User Classes and Characteristics 
+2.4 Operating Environment 
+2.5 Design and Implementation Constraints 
+2.6 User Documentation 
+2.7 Assumptions and Dependencies 
+3. System Features 
+3.1 Boot Menu 
+3.2 Select Keymap 
+3.5 GParted Main Window 
+3.6 Refresh Connected Devices 
+3.7 Undo & Apply ............
+3.8 View Device Information 
+3.9 Create Partition Table 
+3.10 Create a New Partition 
+3.11 Delete a Partition 
+3.12 Resize or Move a Partition
+3.13 Copy Partition 
+3.14 Paste Partition 
+3.15 Format Partition 
+3.16 Unmount Partition 
+3.17 Manage Flags 
+3.18 Check and Repair File System .
+3.19 Label Partition 
+3.20 Take a Screenshot of the Desktop or an Active Window 
+3.21 Terminal & Mount Partitions and Save Screenshots to a Device 
+3.22 Information 
+3.23 Screen Resolution Changer 
+3.24 Date and Time 
+4. External Interface Requirements 
+4.2 Hardware Interfaces ..
+4.3 Software Interfaces 
+4.4 Communications Interfaces 
+5. Other Nonfunctional Requirements 
+5.1 Performance Requirements 
+5.2 Safety Requirements 
+5.3 Security Requirements 
 
 + The introduction part in the documentation we got is a bit bigger than the one in the template. Moreover, In the document, they splitted out the System Features from the Overall Description, unlike the template where the Features are included under the Overall Description. Furthermore, They used two new headings for the External and other requirements in the documentation, while in the template all the requirements were included under a main heading called Specific Requirements.
 
