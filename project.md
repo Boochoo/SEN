@@ -21,6 +21,11 @@ here is this what i am editring, and this is so good nice, and fun wow
 
 ###High-level overview of the app
 
+
+
+
+##6. User interface
+
 ####Main page
 
 When you download SUPERTRIO and enter it, a main page full of several features will stop you. The main page insists
@@ -29,9 +34,4 @@ to the signing up form. The rest of the main page has the logo of the app, and s
 are not a user.
 
 ####Sign up page
-
-
-##6. User interface
-
-test
 
