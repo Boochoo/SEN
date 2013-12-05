@@ -1,12 +1,12 @@
-####SUPERTRIO: requirements of the system for indoor location
+#SUPERTRIO: requirements of the system for indoor location
 Team name
 Team members
 Date
 Version history (if exist)
 
-###Introduction
+##Introduction
 
-##Overall description
+###Overall description
 
 
 ## Use cases
