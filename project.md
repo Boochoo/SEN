@@ -30,10 +30,10 @@ The global positioning system has been used in most area of fields and locations
 Our first priority is to take the invasion of privacy risks into hands by only letting  trusted users in by using different methods of risk eliminators such as setting the WiFi set up so that guests can only use the WiFi of the school. The other one is protecting the profile of the user so that it can not be used otherwise by intruders.
 
 How it works and what is needed
---A compatible smart phone
---WiFi connection 
---Simple skill of computing 
---Some information of the the destination or the person the user is looking for
+*A compatible smart phone
+*WiFi connection 
+*Simple skill of computing 
+*Some information of the the destination or the person the user is looking for
 
 ###Overall description
 
