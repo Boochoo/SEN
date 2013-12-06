@@ -15,8 +15,8 @@ This printed material is a software requirements gathering and analysis for the 
   
 <dt>And the printed material includes   </dt>  
                          
-    <dd> ..*system requirements</dd>
-    <dd> User cases and diagram </dd>
+    <dd> *system requirements</dd>
+    <dd> *User cases and diagram </dd>
     <dd> predictions of how it should be operated</dd>
     <dd> Analysis by trial and error</dd>
 </dl>
@@ -34,10 +34,13 @@ How it works and what is needed
 + Simple skill of computing 
 + Some information of the the destination or the person the user is looking for
 
-###Overall description
+======
 
 
 ### Use cases
+
+
+
 
 ##System architecture
 
