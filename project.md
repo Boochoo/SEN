@@ -1,5 +1,4 @@
 
-
 #SUPERTRIO: requirements of the system for indoor location
 
 
@@ -67,6 +66,7 @@ Our product **Super Trio** has three primary actors, those are registered user, 
 | **Unregistered User** | `Guests to the application  `    | *Contact the Administrator*, *Register*, *View Contents*|
 
 
+![Grbl Pin Diagram](http://users.metropolia.fi/~ermiash/user_case_diagram.astah)
 
 ##System architecture
 
