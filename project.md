@@ -1,4 +1,4 @@
-#SUPERTRIO: requirements of the system for indoor location
+#SUPERTRIO: requirements of the system for indoor location (community service)
 
 
 
@@ -10,15 +10,15 @@
 
 
 
-###Team members 
-
-#### *Somar*
+###Team members: 
+#### *Soumar*
 #### *Ermias*
-####*Bikash*
+#### *Bikash*
 
-Date *08-12-2013*
+###Date:
+#### *08-12-2013*
 
-Version *1.0*
+###Version *1.0*
 
 
 ##Introduction
