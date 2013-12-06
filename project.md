@@ -1,4 +1,3 @@
-
 #SUPERTRIO: requirements of the system for indoor location
 
 
@@ -64,9 +63,15 @@ Our product **Super Trio** has three primary actors, those are registered user, 
 | **Administrator**      | `Owner of the Application  ` | *Add features*, *Edit the product*, *Delete regitered user account*, *Post and Comment*, *View contents*|
 | **Registered User**      | ` a user with profile and access to most parts of the Application`    | *Log in*, *Browse or search*, *Find friends*, *Find locations*, *Edit account*, *Delete account*, *Log out* |
 | **Unregistered User** | `Guests to the application  `    | *Contact the Administrator*, *Register*, *View Contents*|
+       Figure 1, User cases chart
 
+##User Case Diagram
 
-![Grbl Pin Diagram](http://users.metropolia.fi/~ermiash/user_case_diagram.astah)
+In this picture is shown the role of all users and their relationships.
+
+![Grbl Pin Diagram](http://users.metropolia.fi/~ermiash/user_case_diagram.PNG)
+
+     Figure 2, Super Trio User Case Diagram
 
 ##System architecture
 
