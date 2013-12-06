@@ -4,7 +4,6 @@ Team members
 Date
 Version history (if exist)
 
-this is my crap
 
 ##Introduction
 
@@ -14,9 +13,9 @@ this is my crap
 This printed material is a software requirements gathering and analysis for the project of indoor positioning application from the perspective of community services. 
 <dl>
   
-<dt>And the printed materials includes   </dt>  
+<dt>And the printed material includes   </dt>  
                          
-    <dd> system requirements</dd>
+    <dd> ..*system requirements</dd>
     <dd> User cases and diagram </dd>
     <dd> predictions of how it should be operated</dd>
     <dd> Analysis by trial and error</dd>
