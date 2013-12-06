@@ -103,6 +103,18 @@ The post module checks the the information that has been entered by the administ
 - Trio.login.smart: If a registered user types the correct email that correspondes their account but a wrong password, the system shall recognize the user and ask if the user wants to be redirected to the "forgot my password" form.
 - Trio.login.pass: The user who is trying to login and types incorrectly the email or the email and the password together shall be asked by the system if they want to be redirected to the "forgot my email" form.
 - Trio.logo: The system shall always redirect the user and the visitor to the main page when they press on the Super Trio logo in any page, and the contents of the main page is diverse depending on whether a registered user or a visitor pressed.
+- Trio.alwaysLogged: In the login form, the user has an optional box to check, and by checking that box the user assures that they want to be always logged in whenever they open Super Trio. The system shall apply this function when the user checks the box.
+- Trio.showLoc: The system shares the location of the logged in user.
+- Trio.hideLoc: The system does not share the location of the logged in user.
+- Trio.find: The system finds the location of any recognized point inside of the network coverage.
+- Trio.search: The logged in user can search for any other registered users like them, and the system shall find them by name or email.
+- Trio.takeMe: The system shall show the registered user the path they need to find the needed destination from their own location.
+- Trio.post: The logged in user can post letters thier own location.
+- Trio.upload: The logged in user can upload their photos to their account.
+- Trio.edit: The system lets the logged in user to edit their own account.
+- Trio.accPic: The registered user can upload, change, and edit a picture for their own account.
+- Trio.usrnme: The logged in user is able to give themselves a username.
+- Trio.contact: The logged in users and the visitors can contact the admin of Super Trio.
 - Trio.
 
 
