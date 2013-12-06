@@ -81,6 +81,10 @@ In this picture is shown the role of all users and their relationships.
 
 Super Trio is using two types of custom authentication modules: Credentials authentication modules and HTTP authentication modules. The credentials modules are used to check the credentials that the user types in the login form on the login page, as well as they are used when the visitor reaches the register form on the register page and fill in the blanks with the credentials. The HTTP modules are used to authenticate a user by HTTP request without showing the loging page.
 
+* WifiLocationing
+
+WifiLocationing is the module that defines Super Trio fundamental mechanism. WifiLocationing functional process is divided over two tactics. The first tactic insists on recognizing all the location points within the network that Super Trio is used in. The second tactic comprises the application functionality and the user need. It locates the user position and their destination with a touch of a finger, and takes them to the needed path page.
+
 
 
 
