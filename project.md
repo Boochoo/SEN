@@ -10,15 +10,15 @@
 
 
 
-###Team members: 
-  #### *Soumar*
-  #### *Ermias*
-  #### *Bikash*
+####Team members: 
+  *Soumar*
+  *Ermias*
+  *Bikash*
 
-###Date:
-  #### *08-12-2013*
+####Date:
+  *08-12-2013*
 
-###Version *1.0*
+####Version *1.0*
 
 
 ##Introduction
