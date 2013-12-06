@@ -124,7 +124,7 @@ The post module checks the the information that has been entered by the administ
 
 ###Non-functional system requirements
 
-####Usability
+####Usability:
 
 We think that the most important part to make our system well-known is to keep it simple and user-friendly. As of our experience in some other systems that work in the same field Super Trio works in, we noticed that the most issue that attracts the user is the fast easy start. We live in very fast world nowadays, and people are not patient as before for long procedures.
 
@@ -132,7 +132,18 @@ We summed up that the user won't leave us if they like, for example, the registe
 
 When the user feels this easy dealing with our system, they will give a chance to dive more in our system's features. The user won't find hard time editing their account, nor sharing their locations. Everything is going to be on the main page. one press for going to edit the account, one press for sharing location, and one press for finding a needed destination, all from the main page.
 
+####Reliability:
 
+We think that our user will always be faithful to us if we really show that we are reliable. For that, we assure to our users a privacy-keeping with us, and that all their personal information are saved securely and no one can reach them except the user themsleves and the admin. Moreover, to assure more privacy, the admin cannot access the user's password in anyway, so, the user can be sure that no one but them knows their password.
+
+In case of any incorrect information filling to the login form, the system will immediately give a message that warns the user to retype the email or the password in the right way or redirect themsleves to the "forget" forms if they forgot any of their credentials.
+
+To maintain the user's privacy, we also give the user the ability to remove or delete from their renewable feeds any bothering or non-acceptable posts or pictures that injures modesty on their account main page or as a comment on one of their posts.
+
+List of the possible system failures and how the system reacts to them:
+1. Incorrect email or password: The system asks to retype correct info or to redirect to the "forget" form.
+2. Bothering material: The system gives the ability to the user to delete such material from their feeds.
+3. Missing fields in the register form: The systems asks the visitor to fill in the blank fields.
 
 ##User interface
 
