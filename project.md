@@ -1,8 +1,26 @@
+
+
 #SUPERTRIO: requirements of the system for indoor location
-Team name
-Team members
-Date
-Version history (if exist)
+
+
+
+
+##*Super Trio IPS*
+
+
+
+
+
+
+###Team members 
+
+#### *Somar*
+#### *Ermias*
+####*Bikash*
+
+Date *08-12-2013*
+
+Version *1.0*
 
 
 ##Introduction
@@ -44,21 +62,10 @@ Our product **Super Trio** has three primary actors, those are registered user, 
    
 | User type       |   Definition        | User Cases |
 | -------------   |:-------------:| -----:|
-| Administrator      |  | $1600 |
-| Registered User      | a user with profile and access to most parts     | log in, browse or search, find friends, find locations, edit account, delete account, log out |
-| Unregistered User | are neat      |    $1 |
+| **Administrator**      | `Owner of the Application  ` | *Add features*, *Edit the product*, *Delete regitered user account*, *Post and Comment*, *View contents*|
+| **Registered User**      | ` a user with profile and access to most parts of the Application`    | *Log in*, *Browse or search*, *Find friends*, *Find locations*, *Edit account*, *Delete account*, *Log out* |
+| **Unregistered User** | `Guests to the application  `    | *Contact the Administrator*, *Register*, *View Contents*|
 
-
-
-
- Registered user can login, log out, search, find friends, find locations, edit registered user account, delete
-   registered user account, locate registered user location, post and comment, view contents, contact the admin, and
-   send feedback.
-   
-   Administrator can add features, edit the product, delete registered user account, post and comment, and view
-   contents.
-   
-   Visitor can contact the admin, register, and view contents.
 
 
 ##System architecture
