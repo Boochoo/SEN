@@ -11,9 +11,9 @@
 
 
 ####Team members: 
- 1.*Soumar*
- 2.*Ermias*
- 3.*Bikash*
+ 1. Soumar Saloum
+ 2. Ermias Hailemichael 
+ 3. Bikash Sharma
 
 ####Date:
   *08-12-2013*
