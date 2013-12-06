@@ -31,9 +31,9 @@ Our first priority is to take the invasion of privacy risks into hands by only l
 
 How it works and what is needed
 + A compatible smart phone
-..* WiFi connection 
-..*Simple skill of computing 
-..*Some information of the the destination or the person the user is looking for
++ WiFi connection 
++ Simple skill of computing 
++ Some information of the the destination or the person the user is looking for
 
 ###Overall description
 
