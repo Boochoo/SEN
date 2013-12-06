@@ -122,6 +122,17 @@ The post module checks the the information that has been entered by the administ
 - Trio.connect: The registered user can connect their account to facebook to recieve some info to their Super Trio account, like account picture and gender.
 - Trio.prof: The registered user can specify their profession to make other users in Super Trio network know their site of express.
 
+###Non-functional system requirements
+
+####Usability
+
+We think that the most important part to make our system well-known is to keep it simple and user-friendly. As of our experience in some other systems that work in the same field Super Trio works in, we noticed that the most issue that attracts the user is the fast easy start. We live in very fast world nowadays, and people are not patient as before for long procedures.
+
+We summed up that the user won't leave us if they like, for example, the registering procedure, so, we are trying to focus on making the registering process easy and nice-feeling for the user. The filling form is easy and any normal human being can fill it in seconds. The confirmation email shall be in the user's inbox in seconds, as well.
+
+When the user feels this easy dealing with our system, they will give a chance to dive more in our system's features. The user won't find hard time editing their account, nor sharing their locations. Everything is going to be on the main page. one press for going to edit the account, one press for sharing location, and one press for finding a needed destination, all from the main page.
+
+
 
 ##User interface
 
