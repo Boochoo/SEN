@@ -141,9 +141,9 @@ In case of any incorrect information filling to the login form, the system will 
 To maintain the user's privacy, we also give the user the ability to remove or delete from their renewable feeds any bothering or non-acceptable posts or pictures that injures modesty on their account main page or as a comment on one of their posts.
 
 List of the possible system failures and how the system reacts to them:
-1. Incorrect email or password: The system asks to retype correct info or to redirect to the "forget" form.
-2. Bothering material: The system gives the ability to the user to delete such material from their feeds.
-3. Missing fields in the register form: The systems asks the visitor to fill in the blank fields.
+  1. Incorrect email or password: The system asks to retype correct info or to redirect to the "forget" form.
+  2. Bothering material: The system gives the ability to the user to delete such material from their feeds.
+  3. Missing fields in the register form: The systems asks the visitor to fill in the blank fields.
 
 ##User interface
 
