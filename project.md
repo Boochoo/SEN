@@ -90,7 +90,20 @@ WifiLocationing is the module that defines Super Trio fundamental mechanism. Wif
 The post module can be mainly used by the administrator and the registered users. Both of those actors have the ability to check the contents, improve it, or comment on it.
 The post module checks the the information that has been entered by the administration or the registered user in the post form that is found on several pages in the Super Trio, and then exhibits it in a user-friendly distinct form that gets along with Super Trio interface.
 
+##Requirements
 
+###Functional requirements
+
+- Trio.open: On the openning page the system shall give options for both registered users and visitors, whether they want to login or register.
+- Trio.register: The system shall move the visitor to the register page and show a registeration form to be filled
+- Trio.login: The system shall move the registered user to the login page where the user can fill in their credentials and login.
+- Trio.fault: When a visitor is trying to register and fail to follow the requirement of any of the registration fields that should be filled, the system shall give a warning to fix the fault.
+- Trio.missing: When a visitor is trying to register and misses any of the required registration fields that should be filled, the system shall give a warning to fill in the missing blank.
+- Trio.submit: After a visitor fills in all the required fields in the registration form and presses submit, the system shall redirect them to message page says that they will recieve a confirmation email, and the system shall send this email automatically the registering visitor's email.
+- Trio.login.smart: If a registered user types the correct email that correspondes their account but a wrong password, the system shall recognize the user and ask if the user wants to be redirected to the "forgot my password" form.
+- Trio.login.pass: The user who is trying to login and types incorrectly the email or the email and the password together shall be asked by the system if they want to be redirected to the "forgot my email" form.
+- Trio.logo: The system shall always redirect the user and the visitor to the main page when they press on the Super Trio logo in any page, and the contents of the main page is diverse depending on whether a registered user or a visitor pressed.
+- Trio.
 
 
 ##User interface
