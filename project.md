@@ -11,9 +11,9 @@
 
 
 ####Team members: 
-*Soumar*
-*Ermias*
-*Bikash*
+ 1.*Soumar*
+ 2.*Ermias*
+ 3.*Bikash*
 
 ####Date:
   *08-12-2013*
