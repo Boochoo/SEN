@@ -117,6 +117,7 @@ The post module checks the the information that has been entered by the administ
 - Trio.contact: The registered user and the visitor can contact the admin of Super Trio by filling the contact form.
 - Trio.faq: The registered user and the visitor are able to go to FAQs page to find some help concerning Super Trio.
 - Trio.feedback: The registered user may reach the feedback form to fill and send feedback to the admin.
+- Trio.abtUs: The visitor can know about Super Trio by visiting About Us page.
 - Trio.comment: The logged in user can comment on any other shared locations posts of their friends by filling the comment input under each post.
 - Trio.plus: The logged in user can give a plus point to any of their friends by pressing on the plus sign (+) under any of their friend's posts.
 - Trio.connect: The registered user can connect their account to facebook to recieve some info to their Super Trio account, like account picture and gender.
