@@ -18,7 +18,7 @@ Test
 
 anthoer 
 
-## Use cases
+
 here is this what i am editring, and this is so good nice, and fun wowThis printed material is a software requirements gathering and analysis for the project of indoor positioning application from the perspective of community services. 
 <dl>
   
@@ -34,6 +34,8 @@ here is this what i am editring, and this is so good nice, and fun wowThis print
 ---The Super Trio indoor positioning is as its name an application that helps a user get the direction Positioning can be used to track where the person who are assigned to do community service by attaching a tracking ---device in their body parts but that acquires GPS and the indoor positioning only works by using WiFi because of its ---weakness to detect large geographical locations as in the GPS devices does. Can be used to control students in a ---detention room,  
 
 ###Overall description
+
+### Use cases
 
 ##System architecture
 
