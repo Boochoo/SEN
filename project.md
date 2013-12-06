@@ -75,7 +75,11 @@ In this picture is shown the role of all users and their relationships.
 
 ##System architecture
 
-###High-level overview of the app
+###Main modules/how do they function?
+
+* Authentication
+
+Super Trio is using two types of custom authentication modules, which can be provided by plugins: Credentials authentication modules and HTTP authentication modules. The first ones are used to check the credentials user typed in the login form on the login page. The second ones are used to authenticate a user by HTTP request without showing login page at all.
 
 
 
