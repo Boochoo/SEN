@@ -8,18 +8,10 @@ this is my crap
 
 ##Introduction
 
-Here I do my chaNGES in my own comptuer :)
-
-Whatever!
-
-Test
-
 ###Overall description
 
-anthoer 
 
-
-here is this what i am editring, and this is so good nice, and fun wowThis printed material is a software requirements gathering and analysis for the project of indoor positioning application from the perspective of community services. 
+This printed material is a software requirements gathering and analysis for the project of indoor positioning application from the perspective of community services. 
 <dl>
   
 <dt>And the printed materials includes   </dt>  
@@ -31,7 +23,7 @@ here is this what i am editring, and this is so good nice, and fun wowThis print
 </dl>
  
 
----The Super Trio indoor positioning is as its name an application that helps a user get the direction Positioning can be used to track where the person who are assigned to do community service by attaching a tracking ---device in their body parts but that acquires GPS and the indoor positioning only works by using WiFi because of its ---weakness to detect large geographical locations as in the GPS devices does. Can be used to control students in a ---detention room,  
+*The Super Trio* indoor positioning is as its name an application that helps a user to get the direction  in the school premises and provides the best way to get the user into his or destination. Positioning can be used to track where the person, who is assigned to do community service by attaching a tracking device in their body parts but that acquires GPS and the indoor positioning only works by using WiFi because of its weakness to detect large geographical locations as in the GPS devices does. And *Super Trio* can be used to control students in a detention room in a high school or elementary if not higher educational institution. 
 
 ###Overall description
 
