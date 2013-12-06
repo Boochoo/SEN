@@ -154,6 +154,9 @@ Like we mentioned before, our system mostly is going to be used in the education
 
 Furthermore, to not make anyone reach us down, we provide in our About Us page all of the features that Super Trio provides and all the functionalities and utilizations of it. This way we can be sure that whoever wants to start with us will know if our product fits them or not.
 
+###Other non-functional requirements
+
+
 
 
 ##User interface
