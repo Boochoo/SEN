@@ -146,6 +146,16 @@ List of the possible system failures and how the system reacts to them:
   2. Bothering material: The system gives the ability to the user to delete such material from their feeds.
   3. Missing fields in the register form: The systems asks the visitor to fill in the blank fields.
 
+####Efficiency:
+
+As long as we are expecting that our product should be used and loved by a lot of people from different types and needs, we should provide some solutions to satisfy any kind of personality uses Super Trio.
+
+Like we mentioned before, our system mostly is going to be used in the education facilities, accordingly, we know that the biggest part of our possible clients are going to be of youth. The young generation nowadays don't want to wait until they share their location, upload a photo, or make a comment. We highly confirm that Super Trio server is a high-quality server that accomplishes any kind of function in a second or two.
+
+Furthermore, to not make anyone reach us down, we provide in our About Us page all of the features that Super Trio provides and all the functionalities and utilizations of it. This way we can be sure that whoever wants to start with us will know if our product fits them or not.
+
+
+
 ##User interface
 
 ####Main page
