@@ -85,6 +85,11 @@ Super Trio is using two types of custom authentication modules: Credentials auth
 
 WifiLocationing is the module that defines Super Trio fundamental mechanism. WifiLocationing functional process is divided over two tactics. The first tactic insists on recognizing all the location points within the network that Super Trio is used in. The second tactic comprises the application functionality and the user need. It locates the user position and their destination with a touch of a finger, and takes them to the needed path page.
 
+* Post
+
+The post module can be mainly used by the administrator and the registered users. Both of those actors have the ability to check the contents, improve it, or comment on it.
+The post module checks the the information that has been entered by the administration or the registered user in the post form that is found on several pages in the Super Trio, and then exhibits it in a user-friendly distinct form that gets along with Super Trio interface.
+
 
 
 
