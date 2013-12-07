@@ -70,7 +70,7 @@ Our product **Super Trio** has three primary actors, those are registered user, 
 ======
 ##User Case Diagram
 
-In this picture is shown the role of all users and their relationships.
+This illustrative diagram shows the role of all users and their relationships.
 
 ![Grbl Pin Diagram](http://users.metropolia.fi/~ermiash/user_case_diagram.PNG "User Case Diagram")
 
@@ -104,34 +104,61 @@ The post module checks the the information that has been entered by the administ
 
 ###Functional requirements
 
-- Trio.open: On the openning page the system shall give options for both registered users and visitors, whether they want to login or register.
-- Trio.register: The system shall move the visitor to the register page and show a registeration form to be filled
-- Trio.login: The system shall move the registered user to the login page where the user can fill in their credentials and login.
-- Trio.fault: When a visitor is trying to register and fail to follow the requirement of any of the registration fields that should be filled, the system shall give a warning to fix the fault.
-- Trio.missing: When a visitor is trying to register and misses any of the required registration fields that should be filled, the system shall give a warning to fill in the missing blank.
-- Trio.submit: After a visitor fills in all the required fields in the registration form and presses submit, the system shall redirect them to message page says that they will recieve a confirmation email, and the system shall send this email automatically the registering visitor's email.
-- Trio.login.smart: If a registered user types the correct email that correspondes their account but a wrong password, the system shall recognize the user and ask if the user wants to be redirected to the "forgot my password" form.
-- Trio.login.pass: The user who is trying to login and types incorrectly the email or the email and the password together shall be asked by the system if they want to be redirected to the "forgot my email" form.
-- Trio.logo: The system shall always redirect the user and the visitor to the main page when they press on the Super Trio logo in any page, and the contents of the main page is diverse depending on whether a registered user or a visitor pressed.
-- Trio.alwaysLogged: In the login form, the user has an optional box to check, and by checking that box the user assures that they want to be always logged in whenever they open Super Trio. The system shall apply this function when the user checks the box.
-- Trio.showLoc: The system shares the location of the logged in user.
-- Trio.hideLoc: The system does not share the location of the logged in user.
-- Trio.find: The system finds the location of any recognized point inside of the network coverage.
-- Trio.search: The logged in user can search for any other registered users like them, and the system shall find them by name or email.
-- Trio.takeMe: The system shall show the registered user the path they need to find the needed destination from their own location.
-- Trio.post: The logged in user can post letters thier own location.
-- Trio.upload: The logged in user can upload their photos to their account.
-- Trio.edit: The system lets the logged in user to edit their own account.
-- Trio.accPic: The registered user can upload, change, and edit a picture for their own account.
-- Trio.usrnme: The logged in user is able to give themselves a username.
-- Trio.contact: The registered user and the visitor can contact the admin of Super Trio by filling the contact form.
-- Trio.faq: The registered user is able to go to FAQs page to find some help concerning Super Trio.
-- Trio.feedback: The registered user may reach the feedback form to fill and send feedback to the admin.
-- Trio.abtUs: The visitor can know about Super Trio by visiting About Us page.
-- Trio.comment: The logged in user can comment on any other shared locations posts of their friends by filling the comment input under each post.
-- Trio.plus: The logged in user can give a plus point to any of their friends by pressing on the plus sign (+) under any of their friend's posts.
-- Trio.connect: The registered user can connect their account to facebook to recieve some info to their Super Trio account, like account picture and gender.
-- Trio.prof: The registered user can specify their profession to make other users in Super Trio network know their site of express.
+<b>Trio.open :+1:  </b> On the openning page the system shall give options for both registered users and visitors, whether they want to login or register.
+
+<b>Trio.register :100:  </b>The system shall move the visitor to the register page and show a registeration form to be filled
+
+<b>Trio.login : </b> The system shall move the registered user to the login page where the user can fill in their credentials and login.
+
+<b>Trio.fault : </b> When a visitor is trying to register and fail to follow the requirement of any of the registration fields that should be filled, the system shall give a warning to fix the fault.
+
+<b>Trio.missing :</b> When a visitor is trying to register and misses any of the required registration fields that should be filled, the system shall give a warning to fill in the missing blank.
+
+<b>Trio.submit : </b> After a visitor fills in all the required fields in the registration form and presses submit, the system shall redirect them to message page says that they will recieve a confirmation email, and the system shall send this email automatically the registering visitor's email.
+
+<b>Trio.login.smart : </b>If a registered user types the correct email that correspondes their account but a wrong password, the system shall recognize the user and ask if the user wants to be redirected to the "forgot my password" form.
+
+<b>Trio.login.pass :</b> The user who is trying to login and types incorrectly the email or the email and the password together shall be asked by the system if they want to be redirected to the "forgot my email" form.
+
+<b>Trio.logo : </b>The system shall always redirect the user and the visitor to the main page when they press on the Super Trio logo in any page, and the contents of the main page is diverse depending on whether a registered user or a visitor pressed.
+
+<b>Trio.alwaysLogged : </b> In the login form, the user has an optional box to check, and by checking that box the user assures that they want to be always logged in whenever they open Super Trio. The system shall apply this function when the user checks the box.
+
+<b>Trio.showLoc: </b>The system shares the location of the logged in user.
+
+<b>Trio.hideLoc: </b>The system does not share the location of the logged in user.
+
+<b>Trio.find: </b>The system finds the location of any recognized point inside of the network coverage.
+
+<b>Trio.search: </b>The logged in user can search for any other registered users like them, and the system shall find them by name or email.
+
+<b>Trio.takeMe: </b>The system shall show the registered user the path they need to find the needed destination from their own location.
+
+<b>Trio.post: </b>The logged in user can post letters thier own location.
+
+<b>Trio.upload: </b>The logged in user can upload their photos to their account.
+
+<b>Trio.edit: </b>The system lets the logged in user to edit their own account.
+
+<b>Trio.accPic: </b>The registered user can upload, change, and edit a picture for their own account.
+
+<b>Trio.usrnme: </b>The logged in user is able to give themselves a username.
+
+<b>Trio.contact: </b>The registered user and the visitor can contact the admin of Super Trio by filling the contact form.
+
+<b>Trio.faq: </b>The registered user is able to go to FAQs page to find some help concerning Super Trio.
+
+<b>Trio.feedback: </b>The registered user may reach the feedback form to fill and send feedback to the admin.
+
+<b>Trio.abtUs: </b>The visitor can know about Super Trio by visiting About Us page.
+
+<b>Trio.comment: </b>The logged in user can comment on any other shared locations posts of their friends by filling the comment input under each post.
+
+<b>Trio.plus :</b> The logged in user can give a plus point to any of their friends by pressing on the plus sign (+) under any of their friend's posts.
+
+<b>Trio.connect :</b> The registered user can connect their account to facebook to recieve some info to their Super Trio account, like account picture and gender.
+
+<b>Trio.prof :</b>  The registered user can specify their profession to make other users in Super Trio network know their site of express.
 
 ###Non-functional system requirements
 
@@ -213,9 +240,9 @@ Welcome or main page consist of sidebar with option such as;option for managing 
    `Figure 11, Super Trio main user page`
 ###Administrator
 Administrator has many feature like registered user, but little bit in different way, eg: Registered user post their location to friends, but administrator can post to all users, and also he can share to certain targetted group according to desire. But post page looks same. Setting page has more settings, for controlling different feature, instead of friends page, admin has users list. Where he can select and delete users if needed. Notification icon for admin is disable since its not useful. Instead there's new icon called Add feature, from which admin can implement new feautre by just adding the app code. Mainly admin i.e Main admin controlls stuffs by coding from different server computer, so App admin normally has very limited stuffs to perform so it's not heavy.
+
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/admin.JPG "Administrator page")
      `Figure 12, Super Trio add feature of Admin page` 
-
 
 
 
