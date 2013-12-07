@@ -1,4 +1,9 @@
-->![alt text](http://users.metropolia.fi/~soumars/SuperTrio_logo.png)<-
+{:.center}
+![Logo](http://users.metropolia.fi/~soumars/SuperTrio_logo.png)
+
+.center {
+  text-align: center;
+}
 
 #SUPERTRIO: requirements of the system for indoor location (community service)
 
