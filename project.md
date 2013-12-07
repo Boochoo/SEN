@@ -51,6 +51,8 @@ How it works and what is needed :-
 + Simple skill of computing 
 + Some information of the the destination or the person the user is looking for
 
+The application runs in different platforms such as *iOS* , *Android* and *Windows phone*. Our main objective is to built an application with no usability problem issues, helpful and quick to fetch information when used within a small area network or in an institution with a large compound.
+                                                    
 ======
 
 
@@ -64,7 +66,7 @@ Our product **Super Trio** has three primary actors, those are registered user, 
 | **Registered User**      | ` a user with profile and access to most parts of the Application`    | *Log in*, *Browse or search*, *Find friends*, *Find locations*, *Edit account*, *Delete account*, *Log out* |
 | **Unregistered User** | `Guests to the application  `    | *Contact the Administrator*, *Register*, *View Contents*|
        Figure 1, User cases chart
-
+======
 ##User Case Diagram
 
 In this picture is shown the role of all users and their relationships.
