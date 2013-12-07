@@ -1,8 +1,20 @@
-{:.center}
-![Logo](http://users.metropolia.fi/~soumars/SuperTrio_logo.png)
 
-.center {
-  text-align: center;
+
+<div id="container">
+    <img http://users.metropolia.fi/~soumars/SuperTrio_logo.png/>
+    This is an image
+</div>
+
+Hi !
+
+#container {
+    height:100px;
+    line-height:100px;
+}
+
+#container img {
+    vertical-align:middle;
+    max-height:100%;
 }
 
 #SUPERTRIO: requirements of the system for indoor location (community service)
