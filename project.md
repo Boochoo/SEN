@@ -209,7 +209,7 @@ Welcome or main page consist of sidebar with option such as;option for managing 
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/friends.jpg)
           Figure 6, Super Trio  Friends page
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/usermain.jpg)
-          Figure 6, Super Trio main user page
+Figure 6, Super Trio main user page
 
 
 
@@ -218,7 +218,7 @@ Welcome or main page consist of sidebar with option such as;option for managing 
 Administrator has many feature like registered user, but little bit in different way, eg: Registered user post their location to friends, but administrator can post to all users, and also he can share to certain targetted group according to desire. But post page looks same. Setting page has more settings, for controlling different feature, instead of friends page, admin has users list. Where he can select and delete users if needed. Notification icon for admin is disable since its not useful. Instead there's new icon called Add feature, from which admin can implement new feautre by just adding the app code. Mainly admin i.e Main admin controlls stuffs by coding from different server computer, so App admin normally has very limited stuffs to perform so it's not heavy.
 
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/admin.JPG)
-          Figure 6, Super Trio add feature of Admin page
+Figure 6, Super Trio add feature of Admin page
 
 
 
