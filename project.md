@@ -1,6 +1,6 @@
 #SUPERTRIO: requirements of the system for indoor location (community service)
 
-
+![Grbl Pin Diagram](http://users.metropolia.fi/~soumars/SuperTrio_logo.png)
 
 
 ##*Super Trio IPS*
