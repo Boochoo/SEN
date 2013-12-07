@@ -72,7 +72,7 @@ Our product **Super Trio** has three primary actors, those are registered user, 
 
 In this picture is shown the role of all users and their relationships.
 
-![Grbl Pin Diagram](http://users.metropolia.fi/~ermiash/user_case_diagram.PNG)
+![Grbl Pin Diagram](http://users.metropolia.fi/~ermiash/user_case_diagram.PNG "User Case Diagram")
 
      Figure 2, Super Trio User Case Diagram
 
@@ -183,38 +183,38 @@ It specifies the ability of the system to continue functioning well, in order to
 
 Depending on 3 different type of users, the user interface of SuperTrio will be displayed. 
 First page for all 3 users will be same. It will be simply a page where they can login with username and password. Or/else go to register page. 
-![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/firstpage.JPG)
-               Figure 3, Super Trio Login/visitor page
+![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/firstpage.JPG "Face of the Super Trio")
+               `Figure 3, Super Trio Login/visitor page`
 ### Visitor
 Visitor in this case are everybody who visit first page, therefore even other type of user have to go through visitors page. Even there's search box, but after search query is send, it again force to login, or register. 
 So Visitor either login or click to Register. Where they are ask few basic info to enter and then they are converted to Registered users. 
-![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/register.jpg)
-          Figure 4, Super Trio Register page
- ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/error.jpg)
-          Figure 5, Super Trio error page
+![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/register.jpg "Register Page")
+               `Figure 4, Super Trio Register page`
+ ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/error.jpg "When an error occures")
+               `Figure 5, Super Trio error page`
 
 ### Registered User
 These are the main target of our software. After getting username and password from register page, they can then again visit first page to login. After they login there are different option avilable. 
 Welcome or main page consist of sidebar with option such as;option for managing settings such as changing privacy option, changing password, selection connection(wifi/internet) or deactivating account.Edit profile option for editing basic profile i.e username(displaying),profile picture, email. Visited/shared location for viewing location that are shared by user or has been tagged from other users.Friends list for listing all the friend added. Friend can be added by searching and just clicking + button near name.  And notifcation for viewing all active and old notification. Similarly main part of page consist of mainly a shared post(location) of friend which let user know where are/were there friends, top search box to search friend and location, and share option to share location and tag friends. 
 
- ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/usermain.jpg)
-Figure 6, Super Trio main user page
-  ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/settings.jpg)
-Figure 6, Super Trio settings page         
+ ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/usermain.jpg "Registered User page")
+    `Figure 6, Super Trio main user page`
+  ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/settings.jpg "Registered User settings")
+    `Figure 7, Super Trio settings page`         
 
-![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/editprofile.jpg)
-Figure 6, Super Trio  Edit profile page
+![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/editprofile.jpg "Registered User profile page")
+     `Figure 8, Super Trio  Edit profile page`
           
-![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/location.jpg)
-Figure 6, Super Trio  Loaction page          
-![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/friends.jpg)
-Figure 6, Super Trio  Friends page
+![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/location.jpg "Location")
+      `Figure 9, Super Trio  Location page`          
+![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/friends.jpg "Registered User friends")
+     `Figure 10, Super Trio  Friends page`
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/usermain.jpg)
-Figure 6, Super Trio main user page
+   `Figure 11, Super Trio main user page`
 ###Administrator
 Administrator has many feature like registered user, but little bit in different way, eg: Registered user post their location to friends, but administrator can post to all users, and also he can share to certain targetted group according to desire. But post page looks same. Setting page has more settings, for controlling different feature, instead of friends page, admin has users list. Where he can select and delete users if needed. Notification icon for admin is disable since its not useful. Instead there's new icon called Add feature, from which admin can implement new feautre by just adding the app code. Mainly admin i.e Main admin controlls stuffs by coding from different server computer, so App admin normally has very limited stuffs to perform so it's not heavy.
-![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/admin.JPG)
-* Figure 6, Super Trio add feature of Admin page 
+![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/admin.JPG "Administrator page")
+     `Figure 12, Super Trio add feature of Admin page` 
 
 
 
