@@ -180,12 +180,6 @@ It specifies the ability of the system to continue functioning well, in order to
 
 ##User interface
 
-####Main page
+Depending on 3 different type of users, the user interface of SuperTrio will be displayed. 
 
-When you download SUPERTRIO and enter it, a main page full of several features will stop you. The main page insists
-on a main navigation part where you can press Sign in to be taken to the signing in page, or Sign up to be taken
-to the signing up form. The rest of the main page has the logo of the app, and several links for some recommended profiles where you can press on them and check these profiles without any ability for posting or commenting if you
-are not a user.
-
-####Sign up page
 
