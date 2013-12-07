@@ -197,9 +197,9 @@ These are the main target of our software. After getting username and password f
 Welcome or main page consist of sidebar with option such as;option for managing settings such as changing privacy option, changing password, selection connection(wifi/internet) or deactivating account.Edit profile option for editing basic profile i.e username(displaying),profile picture, email. Visited/shared location for viewing location that are shared by user or has been tagged from other users.Friends list for listing all the friend added. Friend can be added by searching and just clicking + button near name.  And notifcation for viewing all active and old notification. Similarly main part of page consist of mainly a shared post(location) of friend which let user know where are/were there friends, top search box to search friend and location, and share option to share location and tag friends. 
 
  ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/usermain.jpg)
- Figure 6, Super Trio main user page
+Figure 6, Super Trio main user page
   ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/settings.jpg)
- Figure 6, Super Trio settings page         
+Figure 6, Super Trio settings page         
 
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/editprofile.jpg)
 Figure 6, Super Trio  Edit profile page
