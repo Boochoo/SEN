@@ -1,17 +1,4 @@
-<div id="container">
-    <img src="http://users.metropolia.fi/~soumars/SuperTrio_logo.png"/>
-    This is an image
-</div>
-
-#container {
-    height:100px;
-    line-height:100px;
-}
-
-#container img {
-    vertical-align:middle;
-    max-height:100%;
-}
+<div style="float: center"><img src="http://users.metropolia.fi/~soumars/SuperTrio_logo.png" /></div>
 
 #SUPERTRIO: requirements of the system for indoor location (community service)
 
