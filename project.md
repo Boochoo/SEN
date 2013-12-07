@@ -1,4 +1,4 @@
-<div style="float: left"><img src="http://users.metropolia.fi/~soumars/SuperTrio_logo.png" /></div>
+![Logo](http://users.metropolia.fi/~soumars/SuperTrio_logo.png)
 
 #SUPERTRIO: requirements of the system for indoor location (community service)
 
