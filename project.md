@@ -202,7 +202,7 @@ Welcome or main page consist of sidebar with option such as;option for managing 
           Figure 6, Super Trio settings page         
 
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/editprofile.jpg)
-          Figure 6, Super Trio  Edit profile page
+Figure 6, Super Trio  Edit profile page
           
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/location.jpg)
 Figure 6, Super Trio  Loaction page          
