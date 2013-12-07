@@ -73,6 +73,7 @@ In this picture is shown the role of all users and their relationships.
 
      Figure 2, Super Trio User Case Diagram
 
+
 ##System architecture
 
 ###Main modules/how do they function?
@@ -89,6 +90,7 @@ WifiLocationing is the module that defines Super Trio fundamental mechanism. Wif
 
 The post module can be mainly used by the administrator and the registered users. Both of those actors have the ability to check the contents, improve it, or comment on it.
 The post module checks the the information that has been entered by the administration or the registered user in the post form that is found on several pages in the Super Trio, and then exhibits it in a user-friendly distinct form that gets along with Super Trio interface.
+
 
 ##Requirements
 
@@ -156,7 +158,17 @@ Furthermore, to not make anyone reach us down, we provide in our About Us page a
 
 ###Other non-functional requirements
 
+####Readability:
 
+It specifies the good visibility of the fonts, and the ease of perceiving the items on the system interface.
+
+####Accessibility:
+
+Helps to identify some of the system functionalities. It can also serve tips that assist in identifying features in the system software for users with disabilities.
+
+####Scalability:
+
+It specifies the ability of the system to continue functioning well, in order to maintain the user satisfaction, when the size or volume of data being imported to the system is getting bigger and heavier.
 
 
 ##User interface
