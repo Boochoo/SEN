@@ -76,6 +76,7 @@ In this picture is shown the role of all users and their relationships.
 
      Figure 2, Super Trio User Case Diagram
 
+====
 
 ##System architecture
 
