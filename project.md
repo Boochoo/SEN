@@ -183,5 +183,8 @@ It specifies the ability of the system to continue functioning well, in order to
 Depending on 3 different type of users, the user interface of SuperTrio will be displayed. 
 First page for all 3 users will be same. It will be simply a page where they can login with username and password. Or/else go to register page. 
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/firstpage.JPG)
+### Visitor
+Visitor in this case are everybody who visit first page, therefore even other type of user have to go through visitors page. Even there's search box, but after search query is send, it again force to login, or register. 
+So Visitor either login or click to Register. Where they are ask few basic info to enter and then they are converted to Registered users. 
 
 
