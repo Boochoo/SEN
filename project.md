@@ -76,7 +76,11 @@ In this picture is shown the role of all users and their relationships.
 
 ##System architecture
 
-###Main modules/how do they function?
+###High-level overview of the system
+
+**The Super Trio** is an indoor loctioning application that helps students and teachers in educational facilities to find their way to several destinations inside the network they are studying/working in. The application is based on creating a social networking atmosphere up to serving the specified community by sharing location and making life easier and faster. The admin of the application can edit its features and implement new characteristics for it. The registered user is empowered by all the possible privileges of location sharing, finding a local destination, posting, commenting, and uploading photos. The visitor can only register if they want, contact the admin, and access a page to read about the application main idea.
+
+###Main modules and their functions represented
 
 * Authentication
 
@@ -117,7 +121,7 @@ The post module checks the the information that has been entered by the administ
 - Trio.accPic: The registered user can upload, change, and edit a picture for their own account.
 - Trio.usrnme: The logged in user is able to give themselves a username.
 - Trio.contact: The registered user and the visitor can contact the admin of Super Trio by filling the contact form.
-- Trio.faq: The registered user and the visitor are able to go to FAQs page to find some help concerning Super Trio.
+- Trio.faq: The registered user is able to go to FAQs page to find some help concerning Super Trio.
 - Trio.feedback: The registered user may reach the feedback form to fill and send feedback to the admin.
 - Trio.abtUs: The visitor can know about Super Trio by visiting About Us page.
 - Trio.comment: The logged in user can comment on any other shared locations posts of their friends by filling the comment input under each post.
