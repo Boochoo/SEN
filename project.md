@@ -1,11 +1,7 @@
-
-
 <div id="container">
-    <img http://users.metropolia.fi/~soumars/SuperTrio_logo.png/>
+    <img src="http://users.metropolia.fi/~soumars/SuperTrio_logo.png"/>
     This is an image
 </div>
-
-Hi !
 
 #container {
     height:100px;
