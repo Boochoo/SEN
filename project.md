@@ -194,7 +194,11 @@ So Visitor either login or click to Register. Where they are ask few basic info 
 
 ### Registered User
 These are the main target of our software. After getting username and password from register page, they can then again visit first page to login. After they login there are different option avilable. 
-Welcome or main page consist of option such as, setting, edit profile, visited/shared location, friends list and notifcation. Similarly main part of page consist of mainly a shared post(location) of friend which let user know where are/were there friends, top search box to search friend and location, and share option to share location and tag friends. 
+Welcome or main page consist of sidebar with option such as, setting, edit profile, visited/shared location, friends list and notifcation. Similarly main part of page consist of mainly a shared post(location) of friend which let user know where are/were there friends, top search box to search friend and location, and share option to share location and tag friends. 
+ ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/usermain.jpg)
+          Figure 6, Super Trio main user page
+
+
 
 
 
