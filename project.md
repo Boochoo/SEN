@@ -235,7 +235,7 @@ It specifies the ability of the system to continue functioning well, in order to
 Depending on 3 different type of users, the user interface of SuperTrio will be displayed. 
 First page for all 3 users will be same. It will be simply a page where they can login with username and password. Or/else go to register page.
 
-![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/firstpage.JPG "Face of the Super Trio")
+![Grbl Pin Diagram](http://users.metropolia.fi/~soumars/firstpage.JPG "Face of the Super Trio")
 
                     Figure 3, Super Trio Login/visitor page
                
