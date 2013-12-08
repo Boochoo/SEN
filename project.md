@@ -2,14 +2,7 @@
 
 #SUPERTRIO: requirements of the system for indoor location (community service)
 
-
-
 ##*Super Trio IPS*
-
-
-
-
-
 
 ####Team members: 
  1. Soumar Saloum
@@ -18,7 +11,6 @@
 
 ####Date:
   *08-12-2013*
-
 
 ####Table of Contents 
 
@@ -56,11 +48,9 @@
 
 **6. Project management**
 
-
 ##1. Introduction
 
 ###1.1. Overall description
-
 
 This printed material is a software requirements gathering and analysis for the project of indoor positioning application from the perspective of community services. 
 <dl>
@@ -73,12 +63,9 @@ This printed material is a software requirements gathering and analysis for the 
 * Analysis by trial and error
 * User Interface of all known users
 
- 
-
 **The Super Trio** indoor positioning is as its name implies an application that helps a user to get the direction  in the school premises and provides the best way to get the user into his or destination. Positioning can be used to track where the person, who is assigned to do community service by attaching a tracking device in their body parts but that acquires GPS and the indoor positioning only works by using WiFi because of its weakness to detect large geographical locations as in the GPS devices does. And **Super Trio** can be used to control students in a detention room in a high school or elementary if not higher educational institution. 
 
 The global positioning system has been used in most area of fields and locations but where the GPS can't reach, we need to use IPS because walls and roofs shields back the satellite signals which GPS relies on and that makes IPS the one and only option to gather and utilize information about a certain  premises.
-
 
 Our first priority is to take the invasion of privacy risks into hands by only letting  trusted users in by using different methods of risk eliminators such as setting the WiFi set up so that guests can only use the WiFi of the school. The other one is protecting the profile of the user so that it can not be used otherwise by intruders.
 
@@ -137,25 +124,25 @@ The post module checks the the information that has been entered by the administ
 
 ###4.1. Functional requirements
 
-<b>Trio.open :+1:  </b> On the openning page the system shall give options for both registered users and visitors, whether they want to login or register.
+<b>Trio.open:  </b> On the openning page the system shall give options for both registered users and visitors, whether they want to login or register.
 
-<b>Trio.register :100:  </b>The system shall move the visitor to the register page and show a registeration form to be filled
+<b>Trio.register:  </b>The system shall move the visitor to the register page and show a registeration form to be filled
 
-<b>Trio.login : </b> The system shall move the registered user to the login page where the user can fill in their credentials and login.
+<b>Trio.login: </b> The system shall move the registered user to the login page where the user can fill in their credentials and login.
 
-<b>Trio.fault : </b> When a visitor is trying to register and fail to follow the requirement of any of the registration fields that should be filled, the system shall give a warning to fix the fault.
+<b>Trio.fault: </b> When a visitor is trying to register and fail to follow the requirement of any of the registration fields that should be filled, the system shall give a warning to fix the fault.
 
-<b>Trio.missing :</b> When a visitor is trying to register and misses any of the required registration fields that should be filled, the system shall give a warning to fill in the missing blank.
+<b>Trio.missing:</b> When a visitor is trying to register and misses any of the required registration fields that should be filled, the system shall give a warning to fill in the missing blank.
 
-<b>Trio.submit : </b> After a visitor fills in all the required fields in the registration form and presses submit, the system shall redirect them to message page says that they will recieve a confirmation email, and the system shall send this email automatically the registering visitor's email.
+<b>Trio.submit: </b> After a visitor fills in all the required fields in the registration form and presses submit, the system shall redirect them to message page says that they will recieve a confirmation email, and the system shall send this email automatically the registering visitor's email.
 
-<b>Trio.login.smart : </b>If a registered user types the correct email that correspondes their account but a wrong password, the system shall recognize the user and ask if the user wants to be redirected to the "forgot my password" form.
+<b>Trio.login.smart: </b>If a registered user types the correct email that correspondes their account but a wrong password, the system shall recognize the user and ask if the user wants to be redirected to the "forgot my password" form.
 
-<b>Trio.login.pass :</b> The user who is trying to login and types incorrectly the email or the email and the password together shall be asked by the system if they want to be redirected to the "forgot my email" form.
+<b>Trio.login.pass:</b> The user who is trying to login and types incorrectly the email or the email and the password together shall be asked by the system if they want to be redirected to the "forgot my email" form.
 
-<b>Trio.logo : </b>The system shall always redirect the user and the visitor to the main page when they press on the Super Trio logo in any page, and the contents of the main page is diverse depending on whether a registered user or a visitor pressed.
+<b>Trio.logo: </b>The system shall always redirect the user and the visitor to the main page when they press on the Super Trio logo in any page, and the contents of the main page is diverse depending on whether a registered user or a visitor pressed.
 
-<b>Trio.alwaysLogged : </b> In the login form, the user has an optional box to check, and by checking that box the user assures that they want to be always logged in whenever they open Super Trio. The system shall apply this function when the user checks the box.
+<b>Trio.alwaysLogged: </b> In the login form, the user has an optional box to check, and by checking that box the user assures that they want to be always logged in whenever they open Super Trio. The system shall apply this function when the user checks the box.
 
 <b>Trio.showLoc: </b>The system shares the location of the logged in user.
 
@@ -187,11 +174,11 @@ The post module checks the the information that has been entered by the administ
 
 <b>Trio.comment: </b>The logged in user can comment on any other shared locations posts of their friends by filling the comment input under each post.
 
-<b>Trio.plus :</b> The logged in user can give a plus point to any of their friends by pressing on the plus sign (+) under any of their friend's posts.
+<b>Trio.plus:</b> The logged in user can give a plus point to any of their friends by pressing on the plus sign (+) under any of their friend's posts.
 
-<b>Trio.connect :</b> The registered user can connect their account to facebook to recieve some info to their Super Trio account, like account picture and gender.
+<b>Trio.connect:</b> The registered user can connect their account to facebook to recieve some info to their Super Trio account, like account picture and gender.
 
-<b>Trio.prof :</b>  The registered user can specify their profession to make other users in Super Trio network know their site of express.
+<b>Trio.prof: </b>  The registered user can specify their profession to make other users in Super Trio network know their site of express.
 
 ###4.2. Non-functional system requirements
 
@@ -242,42 +229,50 @@ It specifies the ability of the system to continue functioning well, in order to
 ##5. User interface
 
 Depending on 3 different type of users, the user interface of SuperTrio will be displayed. 
-First page for all 3 users will be same. It will be simply a page where they can login with username and password. Or/else go to register page. 
+First page for all 3 users will be same. It will be simply a page where they can login with username and password. Or/else go to register page.
+
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/firstpage.JPG "Face of the Super Trio")
-               `Figure 3, Super Trio Login/visitor page`
+               Figure 3, Super Trio Login/visitor page
+               
 ###5.1. Visitor
+
 Visitor in this case are everybody who visit first page, therefore even other type of user have to go through visitors page. Even there's search box, but after search query is send, it again force to login, or register. 
 So Visitor either login or click to Register. Where they are ask few basic info to enter and then they are converted to Registered users. 
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/register.jpg "Register Page")
-               `Figure 4, Super Trio Register page`
+               Figure 4, Super Trio Register page
+               
  ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/error.jpg "When an error occures")
-               `Figure 5, Super Trio error page`
+               Figure 5, Super Trio error page
 
 ###5.2. Registered user
+
 These are the main target of our software. After getting username and password from register page, they can then again visit first page to login. After they login there are different option avilable. 
 Welcome or main page consist of sidebar with option such as;option for managing settings such as changing privacy option, changing password, selection connection(wifi/internet) or deactivating account.Edit profile option for editing basic profile i.e username(displaying),profile picture, email. Visited/shared location for viewing location that are shared by user or has been tagged from other users.Friends list for listing all the friend added. Friend can be added by searching and just clicking + button near name.  And notifcation for viewing all active and old notification. Similarly main part of page consist of mainly a shared post(location) of friend which let user know where are/were there friends, top search box to search friend and location, and share option to share location and tag friends. 
 
  ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/usermain.jpg "Registered User page")
-    `Figure 6, Super Trio main user page`
+    Figure 6, Super Trio main user page
+    
   ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/settings.jpg "Registered User settings")
-    `Figure 7, Super Trio settings page`         
+    Figure 7, Super Trio settings page      
 
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/editprofile.jpg "Registered User profile page")
-     `Figure 8, Super Trio  Edit profile page`
+     Figure 8, Super Trio  Edit profile page
           
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/location.jpg "Location")
-      `Figure 9, Super Trio  Location page`          
+      Figure 9, Super Trio  Location page 
+      
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/friends.jpg "Registered User friends")
-     `Figure 10, Super Trio  Friends page`
+     Figure 10, Super Trio  Friends page
+     
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/usermain.jpg)
-   `Figure 11, Super Trio main user page`
+   Figure 11, Super Trio main user page
+   
 ###5.3. Administrator
+
 Administrator has many feature like registered user, but little bit in different way, eg: Registered user post their location to friends, but administrator can post to all users, and also he can share to certain targetted group according to desire. But post page looks same. Setting page has more settings, for controlling different feature, instead of friends page, admin has users list. Where he can select and delete users if needed. Notification icon for admin is disable since its not useful. Instead there's new icon called Add feature, from which admin can implement new feautre by just adding the app code. Mainly admin i.e Main admin controlls stuffs by coding from different server computer, so App admin normally has very limited stuffs to perform so it's not heavy.
 
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/admin.JPG "Administrator page")
-     `Figure 12, Super Trio add feature of Admin page` 
-
-=====
+     Figure 12, Super Trio add feature of Admin page
 
 ##6. Project Management
 
@@ -285,4 +280,4 @@ We must admit that we have spent most of the project time discussing over what i
 
 As newbies for software engineering and it's tools such as Github, we faced some difficulties of getting used to learn its ways. But as the hours we spend on it increased, the level of difficulty and vagueness started to decrease but we will need to spend some more time working on it on our own to see all the difficulties vanish.
 
-
+Working hours ranged between 17-20 hours from each of us. The division of the documentation parts was totally fair for each one of us and everyone managed to do their job completely and on time.
