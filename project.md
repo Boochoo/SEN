@@ -18,11 +18,11 @@
 
  1.1 Overall description
 
-**2. UseCases**
+**2. Use cases**
 
  2.1 Definition of the user groups
  
- 2.2 Use Case Diagram
+ 2.2 Use case diagram
 
 **3. System architecture**
 
@@ -90,7 +90,7 @@ Our product **Super Trio** has three primary actors, those are registered user, 
 | **Unregistered User** | `Guests to the application  `    | *Contact the Administrator*, *Register*, *View Contents*|
        Figure 1, User cases chart
 
-###2.2. Use Case Diagram
+###2.2. Use case diagram
 
 This illustrative diagram shows the role of all users and their relationships.
 
