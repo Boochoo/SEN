@@ -55,7 +55,7 @@
 This printed material is a software requirements gathering and analysis for the project of indoor positioning application from the perspective of community services. 
 <dl>
   
-<dt>And the printed material includes:  </dt>  
+**And the printed material includes:**
               
 * System requirements
 * User cases and diagram 
