@@ -23,7 +23,7 @@
 ####Table of Contents 
 
 1. Introduction 
-**1.1 Overall description*
++1.1 Overall description
 
 2. UseCases
 2.1 Definition of the user groups
