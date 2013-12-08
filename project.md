@@ -50,7 +50,7 @@
 
 ##1. Introduction
 
-###1.1. Overall description
+###1.1.  Overall description
 
 This printed material is a software requirements gathering and analysis for the project of indoor positioning application from the perspective of community services. 
 <dl>
