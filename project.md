@@ -232,17 +232,20 @@ First page for all 3 users will be same. It will be simply a page where they can
 
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/firstpage.JPG "Face of the Super Trio")
                
-                    Figure 3, Super Trio User Case Diagram
+                    Figure 3, Super Trio Login/visitor page
                
 ###5.1. Visitor
 
 Visitor in this case are everybody who visit first page, therefore even other type of user have to go through visitors page. Even there's search box, but after search query is send, it again force to login, or register. 
 So Visitor either login or click to Register. Where they are ask few basic info to enter and then they are converted to Registered users. 
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/register.jpg "Register Page")
-               Figure 4, Super Trio Register page
+               
+                    Figure 4, Super Trio Register page
+               
                
  ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/error.jpg "When an error occures")
-               Figure 5, Super Trio error page
+ 
+                    Figure 5, Super Trio error page
 
 ###5.2. Registered user
 
@@ -250,29 +253,36 @@ These are the main target of our software. After getting username and password f
 Welcome or main page consist of sidebar with option such as;option for managing settings such as changing privacy option, changing password, selection connection(wifi/internet) or deactivating account.Edit profile option for editing basic profile i.e username(displaying),profile picture, email. Visited/shared location for viewing location that are shared by user or has been tagged from other users.Friends list for listing all the friend added. Friend can be added by searching and just clicking + button near name.  And notifcation for viewing all active and old notification. Similarly main part of page consist of mainly a shared post(location) of friend which let user know where are/were there friends, top search box to search friend and location, and share option to share location and tag friends. 
 
  ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/usermain.jpg "Registered User page")
-    Figure 6, Super Trio main user page
+ 
+                    Figure 6, Super Trio main user page
     
   ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/settings.jpg "Registered User settings")
-    Figure 7, Super Trio settings page      
+  
+                     Figure 7, Super Trio settings page      
 
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/editprofile.jpg "Registered User profile page")
-     Figure 8, Super Trio  Edit profile page
+
+                     Figure 8, Super Trio  Edit profile page
           
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/location.jpg "Location")
-      Figure 9, Super Trio  Location page 
+
+                     Figure 9, Super Trio  Location page 
       
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/friends.jpg "Registered User friends")
-     Figure 10, Super Trio  Friends page
+
+                     Figure 10, Super Trio  Friends page
      
-![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/usermain.jpg)
-   Figure 11, Super Trio main user page
+![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/usermain.jpg "main user page")
+
+                     Figure 11, Super Trio main user page
    
 ###5.3. Administrator
 
 Administrator has many feature like registered user, but little bit in different way, eg: Registered user post their location to friends, but administrator can post to all users, and also he can share to certain targetted group according to desire. But post page looks same. Setting page has more settings, for controlling different feature, instead of friends page, admin has users list. Where he can select and delete users if needed. Notification icon for admin is disable since its not useful. Instead there's new icon called Add feature, from which admin can implement new feautre by just adding the app code. Mainly admin i.e Main admin controlls stuffs by coding from different server computer, so App admin normally has very limited stuffs to perform so it's not heavy.
 
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/admin.JPG "Administrator page")
-     Figure 12, Super Trio add feature of Admin page
+
+                    Figure 12, Super Trio add feature of Admin page
 
 ##6. Project Management
 
