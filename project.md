@@ -22,29 +22,39 @@
 
 ####Table of Contents 
 
-1. Introduction
+**1. Introduction**
 
  1.1 Overall description
 
-2. UseCases
-2.1 Definition of the user groups
-2.2 Use Case Diagram
+**2. UseCases**
 
-3. System architecture
-3.1 High-level overview of the system
-3.2 Main modules and their functions represented
+ 2.1 Definition of the user groups
+ 
+ 2.2 Use Case Diagram
 
-4. Requirements
-4.1 Functional requirements
-4.2 Non-functional system requirements
-4.3 Other non-functional requirements
+**3. System architecture**
 
-5. User interface
-5.1 Visitor
-5.2 Registered user
-5.3 Administrator
+ 3.1 High-level overview of the system
+ 
+ 3.2 Main modules and their functions represented
 
-6. Project management
+**4. Requirements**
+
+ 4.1 Functional requirements
+ 
+ 4.2 Non-functional system requirements
+ 
+ 4.3 Other non-functional requirements
+
+**5. User interface**
+
+ 5.1 Visitor
+ 
+ 5.2 Registered user
+ 
+ 5.3 Administrator
+
+**6. Project management**
 
 
 ##1. Introduction
