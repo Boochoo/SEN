@@ -99,6 +99,11 @@ This illustrative diagram shows the role of all users and their relationships.
 
      Figure 2, Super Trio User Case Diagram
 
+###2.3 User case scenerio
+
+![scenerio](http://users.metropolia.fi/~ermiash/super_trio/scenerio.PNG "Register case scene")
+ 
+   Figure 2.1, User case scenerio
 ##3. System architecture
 
 ###3.1. High-level overview of the system
