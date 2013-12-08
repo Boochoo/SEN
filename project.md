@@ -19,29 +19,42 @@
 ####Date:
   *08-12-2013*
 
-####*Version 1.1*
+
+#####Table of Contents 
+
+1. Introduction 
+ 1.1 Overall description
+
+2. UseCases
+ 2.1 Definition of the user groups
+ 2.2 Use Case Diagram
+
+3. System architecture
+ 3.1 High-level overview of the system
+ 3.2 Main modules and their functions represented
+
+4. Requirements
+ 4.1 Functional requirements
+ 4.2 Non-functional system requirements
+ 4.3 Other non-functional requirements
+
+5. User interface
+ 5.1 Visitor
+ 5.2 Registered user
+ 5.3 Administrator
+
+6. Project management
 
 
-##### Table of Contents 
+##1. Introduction
 
-[Introduction](#Introduction)  
-[Use Cases](#UseCases)  
-[Use Case Diagram](#UseCaseDiagram)  
-[System Architecture](#systemArchitecture)  
-[Requirements](#Requirements)  
-[User Interface](#userInterface)  
-[Project Managements](#ProjectManagement)  
-
-
-##Introduction
-
-###Overall description
+###1.1. Overall description
 
 
 This printed material is a software requirements gathering and analysis for the project of indoor positioning application from the perspective of community services. 
 <dl>
   
-<dt>And the printed material includes :-   </dt>  
+<dt>And the printed material includes:  </dt>  
               
 * System requirements
 * User cases and diagram 
@@ -65,11 +78,10 @@ How it works and what is needed :-
 + Some information of the the destination or the person the user is looking for
 
 The application runs in different platforms such as *iOS* , *Android* and *Windows phone*. Our main objective is to built an application with no usability problem issues, helpful and quick to fetch information when used within a small area network or in an institution with a large compound.
-                                                    
-======
 
+##2. Use cases
 
-### Use cases
+###2.1. Definition of the user groups
 
 Our product **Super Trio** has three primary actors, those are registered user, administrator, and visitor. Their accessibility on the application depends on what kind of user type and the credentials that the user is logged into. 
    
@@ -79,8 +91,8 @@ Our product **Super Trio** has three primary actors, those are registered user, 
 | **Registered User**      | ` a user with profile and access to most parts of the Application`    | *Log in*, *Browse or search*, *Find friends*, *Find locations*, *Edit account*, *Delete account*, *Log out* |
 | **Unregistered User** | `Guests to the application  `    | *Contact the Administrator*, *Register*, *View Contents*|
        Figure 1, User cases chart
-======
-##User Case Diagram
+
+###2.2. Use Case Diagram
 
 This illustrative diagram shows the role of all users and their relationships.
 
@@ -88,15 +100,13 @@ This illustrative diagram shows the role of all users and their relationships.
 
      Figure 2, Super Trio User Case Diagram
 
-====
+##3. System architecture
 
-##System architecture
-
-###High-level overview of the system
+###3.1. High-level overview of the system
 
 **The Super Trio** is an indoor loctioning application that helps students and teachers in educational facilities to find their way to several destinations inside the network they are studying/working in. The application is based on creating a social networking atmosphere up to serving the specified community by sharing location and making life easier and faster. The admin of the application can edit its features and implement new characteristics for it. The registered user is empowered by all the possible privileges of location sharing, finding a local destination, posting, commenting, and uploading photos. The visitor can only register if they want, contact the admin, and access a page to read about the application main idea.
 
-###Main modules and their functions represented
+###3.2. Main modules and their functions represented
 
 * Authentication
 
@@ -112,9 +122,9 @@ The post module can be mainly used by the administrator and the registered users
 The post module checks the the information that has been entered by the administration or the registered user in the post form that is found on several pages in the Super Trio, and then exhibits it in a user-friendly distinct form that gets along with Super Trio interface.
 
 
-##Requirements
+##4. Requirements
 
-###Functional requirements
+###4.1. Functional requirements
 
 <b>Trio.open :+1:  </b> On the openning page the system shall give options for both registered users and visitors, whether they want to login or register.
 
@@ -172,7 +182,7 @@ The post module checks the the information that has been entered by the administ
 
 <b>Trio.prof :</b>  The registered user can specify their profession to make other users in Super Trio network know their site of express.
 
-###Non-functional system requirements
+###4.2. Non-functional system requirements
 
 ####Usability:
 
@@ -203,7 +213,7 @@ Like we mentioned before, our system mostly is going to be used in the education
 
 Furthermore, to not make anyone reach us down, we provide in our About Us page all of the features that Super Trio provides and all the functionalities and utilizations of it. This way we can be sure that whoever wants to start with us will know if our product fits them or not.
 
-###Other non-functional requirements
+###4.3. Other non-functional requirements
 
 ####Readability:
 
@@ -218,13 +228,13 @@ Helps to identify some of the system functionalities. It can also serve tips tha
 It specifies the ability of the system to continue functioning well, in order to maintain the user satisfaction, when the size or volume of data being imported to the system is getting bigger and heavier.
 
 
-##User interface
+##5. User interface
 
 Depending on 3 different type of users, the user interface of SuperTrio will be displayed. 
 First page for all 3 users will be same. It will be simply a page where they can login with username and password. Or/else go to register page. 
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/firstpage.JPG "Face of the Super Trio")
                `Figure 3, Super Trio Login/visitor page`
-### Visitor
+###5.1. Visitor
 Visitor in this case are everybody who visit first page, therefore even other type of user have to go through visitors page. Even there's search box, but after search query is send, it again force to login, or register. 
 So Visitor either login or click to Register. Where they are ask few basic info to enter and then they are converted to Registered users. 
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/register.jpg "Register Page")
@@ -232,7 +242,7 @@ So Visitor either login or click to Register. Where they are ask few basic info 
  ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/error.jpg "When an error occures")
                `Figure 5, Super Trio error page`
 
-### Registered User
+###5.2. Registered user
 These are the main target of our software. After getting username and password from register page, they can then again visit first page to login. After they login there are different option avilable. 
 Welcome or main page consist of sidebar with option such as;option for managing settings such as changing privacy option, changing password, selection connection(wifi/internet) or deactivating account.Edit profile option for editing basic profile i.e username(displaying),profile picture, email. Visited/shared location for viewing location that are shared by user or has been tagged from other users.Friends list for listing all the friend added. Friend can be added by searching and just clicking + button near name.  And notifcation for viewing all active and old notification. Similarly main part of page consist of mainly a shared post(location) of friend which let user know where are/were there friends, top search box to search friend and location, and share option to share location and tag friends. 
 
@@ -250,7 +260,7 @@ Welcome or main page consist of sidebar with option such as;option for managing 
      `Figure 10, Super Trio  Friends page`
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/usermain.jpg)
    `Figure 11, Super Trio main user page`
-###Administrator
+###5.3. Administrator
 Administrator has many feature like registered user, but little bit in different way, eg: Registered user post their location to friends, but administrator can post to all users, and also he can share to certain targetted group according to desire. But post page looks same. Setting page has more settings, for controlling different feature, instead of friends page, admin has users list. Where he can select and delete users if needed. Notification icon for admin is disable since its not useful. Instead there's new icon called Add feature, from which admin can implement new feautre by just adding the app code. Mainly admin i.e Main admin controlls stuffs by coding from different server computer, so App admin normally has very limited stuffs to perform so it's not heavy.
 
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/admin.JPG "Administrator page")
@@ -258,7 +268,7 @@ Administrator has many feature like registered user, but little bit in different
 
 =====
 
-##Project Management
+##7. Project Management
 
 We must admit that we have spent most of the project time discussing over what is best for the project while taking notes and setting up meetings to see the bigger picture and those meetings were later proven to give us the consequential result. We have discussions on subjects such as ; should the presentation be more texual or pictorial ? What kind of media should we use to define the application ? What is the achievement goal and how can we grab it ? What are we going to learn from this particular experience ? and etc. And the whole project has been a great learning experience for all of us.  
 
