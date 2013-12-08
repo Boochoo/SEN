@@ -232,6 +232,7 @@ First page for all 3 users will be same. It will be simply a page where they can
 
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/firstpage.JPG "Face of the Super Trio")
                Figure 3, Super Trio Login/visitor page
+                    Figure 2, Super Trio User Case Diagram
                
 ###5.1. Visitor
 
