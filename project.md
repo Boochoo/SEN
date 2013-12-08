@@ -244,5 +244,10 @@ Administrator has many feature like registered user, but little bit in different
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/admin.JPG "Administrator page")
      `Figure 12, Super Trio add feature of Admin page` 
 
+=====
 
+##Project Management
 
+We must admit that we have spent most of the project time discussing over what is best for the project while taking notes and setting up meetings to see the bigger picture and those meetings were later proven to give us the consequential result. We have discussions on subjects such as ; should the presentation be more texual or pictorial ? What kind of media should we use to define the application ? What is the achievement goal and how can we grab it ? What are we going to learn from this particular experience ? and etc. And the whole project has been a great learning experience for all of us.  
+
+As newbies for software engineering and it's tools such as Github, we faced some difficulties of getting used to learn its ways. But as the hours we spend on it increased, the level of difficulty and vagueness started to decrease but we will need to spend some more time working on it on our own to see all the difficulties vanish. 
