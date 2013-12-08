@@ -125,11 +125,9 @@ The post module checks the the information that has been entered by the administ
 
 ###4.1. Functional requirements
 
-<b>Trio.open:  </b> On the openning page the system shall give options for both registered users and visitors, whether they want to login or register.
+<b>Trio.open:  </b> On the openning page the system shall give options for both registered users and visitors, whether they want to login using login form or register.
 
 <b>Trio.register:  </b>The system shall move the visitor to the register page and show a registeration form to be filled
-
-<b>Trio.login: </b> The system shall move the registered user to the login page where the user can fill in their credentials and login.
 
 <b>Trio.fault: </b> When a visitor is trying to register and fail to follow the requirement of any of the registration fields that should be filled, the system shall give a warning to fix the fault.
 
