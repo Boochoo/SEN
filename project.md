@@ -28,7 +28,7 @@
 [Use Cases](#UseCases)  
 [Use Case Diagram](#UseCaseDiagram)  
 [System Architecture](#systemArchitecture)  
-[Requirments](#Requirements)  
+[Requirements](#Requirements)  
 [User Interface](#userInterface)  
 [Project Managements](#ProjectManagement)  
 
