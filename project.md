@@ -25,7 +25,7 @@
 ##### Table of Contents 
 
 [Introduction](#Introduction)  
-[Use Cases](#Use cases)  
+[Use Cases](#UseCases)  
 [Use Case Diagram](#UseCaseDiagram)  
 [System Architecture](#systemArchitecture)  
 [Requirments](#Requirements)  
