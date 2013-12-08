@@ -269,12 +269,7 @@ Welcome or main page consist of sidebar with option such as;option for managing 
                      Figure 9, Super Trio  Location page 
       
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/friends.jpg "Registered User friends")
-
                      Figure 10, Super Trio  Friends page
-     
-![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/usermain.jpg "main user page")
-
-                     Figure 11, Super Trio main user page
    
 ###5.3. Administrator
 
@@ -282,7 +277,7 @@ Administrator has many feature like registered user, but little bit in different
 
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/admin.JPG "Administrator page")
 
-                    Figure 12, Super Trio add feature of Admin page
+                    Figure 11, Super Trio add feature of Admin page
 
 ##6. Project Management
 
