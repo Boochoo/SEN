@@ -47,6 +47,7 @@ This printed material is a software requirements gathering and analysis for the 
 * User cases and diagram 
 * Predictions of how it should be operated
 * Analysis by trial and error
+* User Interface of all known users
 
  
 
