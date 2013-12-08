@@ -23,6 +23,8 @@
  2.1 Definition of the user groups
  
  2.2 Use case diagram
+ 
+ 2.3 Use case scenario
 
 **3. System architecture**
 
@@ -89,7 +91,7 @@ Our product **Super Trio** has three primary actors, those are registered user, 
 | **Administrator**      | `Owner of the Application  ` | *Add features*, *Edit the product*, *Delete regitered user account*, *Post and Comment*, *View contents*|
 | **Registered User**      | ` a user with profile and access to most parts of the Application`    | *Log in*, *Browse or search*, *Find friends*, *Find locations*, *Edit account*, *Delete account*, *Log out* |
 | **Unregistered User** | `Guests to the application  `    | *Contact the Administrator*, *Register*, *View Contents*|
-       Figure 1, User cases chart
+       Figure 2.0, User cases chart
 
 ###2.2. Use case diagram
 
@@ -97,13 +99,14 @@ This illustrative diagram shows the role of all users and their relationships.
 
 ![Grbl Pin Diagram](http://users.metropolia.fi/~ermiash/user_case_diagram.PNG "User Case Diagram")
 
-     Figure 2, Super Trio User Case Diagram
+     Figure 2.1, Super Trio User Case Diagram
 
-###2.3 User case scenerio
+###2.3. Use case scenario
 
 ![scenerio](http://users.metropolia.fi/~ermiash/super_trio/scenerio.PNG "Register case scene")
  
-   Figure 2.1, User case scenerio
+     Figure 2.2, User case scenerio
+   
 ##3. System architecture
 
 ###3.1. High-level overview of the system
@@ -237,7 +240,7 @@ First page for all 3 users will be same. It will be simply a page where they can
 
 ![Grbl Pin Diagram](http://users.metropolia.fi/~soumars/firstpage.JPG "Face of the Super Trio")
 
-                    Figure 3, Super Trio Login/visitor page
+                    Figure 5.0, Super Trio Login/visitor page
                
 ###5.1. Visitor
 
@@ -245,12 +248,12 @@ Visitor in this case are everybody who visit first page, therefore even other ty
 So Visitor either login or click to Register. Where they are ask few basic info to enter and then they are converted to Registered users. 
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/register.jpg "Register Page")
                
-                    Figure 4, Super Trio Register page
+                    Figure 5.1, Super Trio Register page
                
                
  ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/error.jpg "When an error occures")
  
-                    Figure 5, Super Trio error page
+                    Figure 5.2, Super Trio error page
 
 ###5.2. Registered user
 
@@ -259,23 +262,23 @@ Welcome or main page consist of sidebar with option such as;option for managing 
 
  ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/usermain.jpg "Registered User page")
  
-                    Figure 6, Super Trio main user page
+                    Figure 5.3, Super Trio main user page
     
   ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/settings.jpg "Registered User settings")
   
-                     Figure 7, Super Trio settings page      
+                     Figure 5.4, Super Trio settings page      
 
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/editprofile.jpg "Registered User profile page")
 
-                     Figure 8, Super Trio  Edit profile page
+                     Figure 5.5, Super Trio  Edit profile page
           
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/location.jpg "Location")
 
-                     Figure 9, Super Trio  Location page 
+                     Figure 5.6, Super Trio  Location page 
       
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/friends.jpg "Registered User friends")
 
-                     Figure 10, Super Trio  Friends page
+                     Figure 5.7, Super Trio  Friends page
    
 ###5.3. Administrator
 
@@ -283,7 +286,7 @@ Administrator has many feature like registered user, but little bit in different
 
 ![Grbl Pin Diagram](http://users.metropolia.fi/~bikashs/supertrio/admin.JPG "Administrator page")
 
-                    Figure 11, Super Trio add feature of Admin page
+                    Figure 5.8, Super Trio add feature of Admin page
 
 ##6. Project Management
 
